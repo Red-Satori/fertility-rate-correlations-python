@@ -1,0 +1,647 @@
+[
+    {
+        "gii_rank": 1,
+        "country": "Switzerland",
+        "gii_value": 0.025
+    },
+    {
+        "gii_rank": 2,
+        "country": "Norway Norway",
+        "gii_value": 0.038
+    },
+    {
+        "gii_rank": 3,
+        "country": "Finland",
+        "gii_value": 0.039
+    },
+    {
+        "gii_rank": 4,
+        "country": "Netherlands",
+        "gii_value": 0.043
+    },
+    {
+        "gii_rank": 4,
+        "country": "Denmark",
+        "gii_value": 0.043
+    },
+    {
+        "gii_rank": 6,
+        "country": "Sweden Sweden",
+        "gii_value": 0.045
+    },
+    {
+        "gii_rank": 6,
+        "country": "Belgium",
+        "gii_value": 0.045
+    },
+    {
+        "gii_rank": 7,
+        "country": "South Korea South",
+        "gii_value": 0.047
+    },
+    {
+        "gii_rank": 8,
+        "country": "France France",
+        "gii_value": 0.049
+    },
+    {
+        "gii_rank": 9,
+        "country": "Iceland",
+        "gii_value": 0.058
+    },
+    {
+        "gii_rank": 10,
+        "country": "Slovenia Slovenia",
+        "gii_value": 0.063
+    },
+    {
+        "gii_rank": 11,
+        "country": "Taiwan Taiwan",
+        "gii_value": 0.064
+    },
+    {
+        "gii_rank": 12,
+        "country": "Singapore",
+        "gii_value": 0.065
+    },
+    {
+        "gii_rank": 12,
+        "country": "Luxembourg Luxembourg",
+        "gii_value": 0.065
+    },
+    {
+        "gii_rank": 14,
+        "country": "Austria",
+        "gii_value": 0.069
+    },
+    {
+        "gii_rank": 14,
+        "country": "Italy",
+        "gii_value": 0.069
+    },
+    {
+        "gii_rank": 16,
+        "country": "Spain",
+        "gii_value": 0.07
+    },
+    {
+        "gii_rank": 17,
+        "country": "Japan",
+        "gii_value": 0.075
+    },
+    {
+        "gii_rank": 18,
+        "country": "Portugal Portugal",
+        "gii_value": 0.079
+    },
+    {
+        "gii_rank": 19,
+        "country": "Canada Canada",
+        "gii_value": 0.08
+    },
+    {
+        "gii_rank": 20,
+        "country": "Germany",
+        "gii_value": 0.084
+    },
+    {
+        "gii_rank": 21,
+        "country": "Estonia",
+        "gii_value": 0.086
+    },
+    {
+        "gii_rank": 21,
+        "country": "Cyprus Cyprus",
+        "gii_value": 0.086
+    },
+    {
+        "gii_rank": 23,
+        "country": "Republic of Ireland",
+        "gii_value": 0.093
+    },
+    {
+        "gii_rank": 24,
+        "country": "New Zealand New",
+        "gii_value": 0.094
+    },
+    {
+        "gii_rank": 25,
+        "country": "Australia",
+        "gii_value": 0.097
+    },
+    {
+        "gii_rank": 26,
+        "country": "United Kingdom United Kingdom",
+        "gii_value": 0.109
+    },
+    {
+        "gii_rank": 26,
+        "country": "Montenegro Montenegro",
+        "gii_value": 0.109
+    },
+    {
+        "gii_rank": 28,
+        "country": "Poland Poland",
+        "gii_value": 0.115
+    },
+    {
+        "gii_rank": 29,
+        "country": "Greece Greece",
+        "gii_value": 0.116
+    },
+    {
+        "gii_rank": 29,
+        "country": "Croatia",
+        "gii_value": 0.116
+    },
+    {
+        "gii_rank": 31,
+        "country": "United Arab Emirates United Arab Emirates",
+        "gii_value": 0.118
+    },
+    {
+        "gii_rank": 31,
+        "country": "Belarus",
+        "gii_value": 0.118
+    },
+    {
+        "gii_rank": 33,
+        "country": "Israel Israel",
+        "gii_value": 0.123
+    },
+    {
+        "gii_rank": 34,
+        "country": "Lithuania",
+        "gii_value": 0.124
+    },
+    {
+        "gii_rank": 35,
+        "country": "Serbia Serbia",
+        "gii_value": 0.132
+    },
+    {
+        "gii_rank": 36,
+        "country": "Czech Republic Czech Republic",
+        "gii_value": 0.136
+    },
+    {
+        "gii_rank": 37,
+        "country": "North Macedonia North",
+        "gii_value": 0.143
+    },
+    {
+        "gii_rank": 38,
+        "country": "Bosnia and Herzegovina Bosnia and Herzegovina",
+        "gii_value": 0.149
+    },
+    {
+        "gii_rank": 39,
+        "country": "China",
+        "gii_value": 0.168
+    },
+    {
+        "gii_rank": 40,
+        "country": "Malta",
+        "gii_value": 0.175
+    },
+    {
+        "gii_rank": 41,
+        "country": "Latvia Latvia",
+        "gii_value": 0.176
+    },
+    {
+        "gii_rank": 42,
+        "country": "Albania",
+        "gii_value": 0.181
+    },
+    {
+        "gii_rank": 43,
+        "country": "Qatar",
+        "gii_value": 0.185
+    },
+    {
+        "gii_rank": 44,
+        "country": "Kazakhstan Kazakhstan",
+        "gii_value": 0.19
+    },
+    {
+        "gii_rank": 45,
+        "country": "Slovakia Slovakia",
+        "gii_value": 0.191
+    },
+    {
+        "gii_rank": 46,
+        "country": "United States United",
+        "gii_value": 0.204
+    },
+    {
+        "gii_rank": 46,
+        "country": "Moldova",
+        "gii_value": 0.204
+    },
+    {
+        "gii_rank": 48,
+        "country": "Bulgaria Bulgaria",
+        "gii_value": 0.206
+    },
+    {
+        "gii_rank": 212,
+        "country": "52",
+        "gii_value": 0.225
+    },
+    {
+        "gii_rank": 233,
+        "country": "74",
+        "gii_value": 0.234
+    },
+    {
+        "gii_rank": 242,
+        "country": "81",
+        "gii_value": 0.245
+    },
+    {
+        "gii_rank": 55,
+        "country": "Chile",
+        "gii_value": 0.247
+    },
+    {
+        "gii_rank": 56,
+        "country": "Saudi Arabia",
+        "gii_value": 0.252
+    },
+    {
+        "gii_rank": 56,
+        "country": "Barbados",
+        "gii_value": 0.252
+    },
+    {
+        "gii_rank": 56,
+        "country": "Libya",
+        "gii_value": 0.252
+    },
+    {
+        "gii_rank": 59,
+        "country": "Malaysia",
+        "gii_value": 0.253
+    },
+    {
+        "gii_rank": 255,
+        "country": "49",
+        "gii_value": 0.276
+    },
+    {
+        "gii_rank": 288,
+        "country": "62  Costa",
+        "gii_value": 0.288
+    },
+    {
+        "gii_rank": 288,
+        "country": "95",
+        "gii_value": 0.296
+    },
+    {
+        "gii_rank": 296,
+        "country": "70  Cuba",
+        "gii_value": 0.304
+    },
+    {
+        "gii_rank": 306,
+        "country": "60  Oman",
+        "gii_value": 0.306
+    },
+    {
+        "gii_rank": 314,
+        "country": "74",
+        "gii_value": 0.322
+    },
+    {
+        "gii_rank": 71,
+        "country": "Mongolia",
+        "gii_value": 0.322
+    },
+    {
+        "gii_rank": 73,
+        "country": "Trinidad and",
+        "gii_value": 0.323
+    },
+    {
+        "gii_rank": 323,
+        "country": "46  Argentina",
+        "gii_value": 0.328
+    },
+    {
+        "gii_rank": 331,
+        "country": "58",
+        "gii_value": 0.341
+    },
+    {
+        "gii_rank": 78,
+        "country": "Mauritius",
+        "gii_value": 0.347
+    },
+    {
+        "gii_rank": 79,
+        "country": "Tonga",
+        "gii_value": 0.354
+    },
+    {
+        "gii_rank": 80,
+        "country": "Thailand",
+        "gii_value": 0.359
+    },
+    {
+        "gii_rank": 81,
+        "country": "Samoa",
+        "gii_value": 0.36
+    },
+    {
+        "gii_rank": 82,
+        "country": "Maldives",
+        "gii_value": 0.369
+    },
+    {
+        "gii_rank": 369,
+        "country": "93  Fiji",
+        "gii_value": 0.37
+    },
+    {
+        "gii_rank": 85,
+        "country": "El",
+        "gii_value": 0.383
+    },
+    {
+        "gii_rank": 384,
+        "country": "79  Peru",
+        "gii_value": 0.395
+    },
+    {
+        "gii_rank": 396,
+        "country": "126 Cape",
+        "gii_value": 0.397
+    },
+    {
+        "gii_rank": 90,
+        "country": "Sri Lanka",
+        "gii_value": 0.401
+    },
+    {
+        "gii_rank": 90,
+        "country": "Saint",
+        "gii_value": 0.401
+    },
+    {
+        "gii_rank": 402,
+        "country": "114 South Africa",
+        "gii_value": 0.406
+    },
+    {
+        "gii_rank": 407,
+        "country": "84",
+        "gii_value": 0.408
+    },
+    {
+        "gii_rank": 411,
+        "country": "110",
+        "gii_value": 0.415
+    },
+    {
+        "gii_rank": 417,
+        "country": "129",
+        "gii_value": 0.421
+    },
+    {
+        "gii_rank": 100,
+        "country": "Honduras",
+        "gii_value": 0.423
+    },
+    {
+        "gii_rank": 101,
+        "country": "Colombia",
+        "gii_value": 0.428
+    },
+    {
+        "gii_rank": 101,
+        "country": "Nicaragua",
+        "gii_value": 0.428
+    },
+    {
+        "gii_rank": 429,
+        "country": "107",
+        "gii_value": 0.43
+    },
+    {
+        "gii_rank": 105,
+        "country": "Suriname",
+        "gii_value": 0.436
+    },
+    {
+        "gii_rank": 440,
+        "country": "103 Paraguay",
+        "gii_value": 0.446
+    },
+    {
+        "gii_rank": 108,
+        "country": "Egypt",
+        "gii_value": 0.449
+    },
+    {
+        "gii_rank": 450,
+        "country": "142 Nepal",
+        "gii_value": 0.452
+    },
+    {
+        "gii_rank": 454,
+        "country": "88  Dominican",
+        "gii_value": 0.455
+    },
+    {
+        "gii_rank": 113,
+        "country": "Iran",
+        "gii_value": 0.459
+    },
+    {
+        "gii_rank": 113,
+        "country": "Laos",
+        "gii_value": 0.459
+    },
+    {
+        "gii_rank": 462,
+        "country": "100 Botswana",
+        "gii_value": 0.465
+    },
+    {
+        "gii_rank": 117,
+        "country": "Cambodia",
+        "gii_value": 0.474
+    },
+    {
+        "gii_rank": 478,
+        "country": "113 Venezuela",
+        "gii_value": 0.479
+    },
+    {
+        "gii_rank": 119,
+        "country": "Guatemala",
+        "gii_value": 0.479
+    },
+    {
+        "gii_rank": 121,
+        "country": "Indonesia",
+        "gii_value": 0.48
+    },
+    {
+        "gii_rank": 122,
+        "country": "Syria",
+        "gii_value": 0.482
+    },
+    {
+        "gii_rank": 123,
+        "country": "India",
+        "gii_value": 0.488
+    },
+    {
+        "gii_rank": 504,
+        "country": "173 Ethiopia",
+        "gii_value": 0.517
+    },
+    {
+        "gii_rank": 126,
+        "country": "Kenya",
+        "gii_value": 0.518
+    },
+    {
+        "gii_rank": 523,
+        "country": "119 Gabon",
+        "gii_value": 0.525
+    },
+    {
+        "gii_rank": 129,
+        "country": "Zimbabwe",
+        "gii_value": 0.527
+    },
+    {
+        "gii_rank": 533,
+        "country": "159",
+        "gii_value": 0.535
+    },
+    {
+        "gii_rank": 536,
+        "country": "133",
+        "gii_value": 0.537
+    },
+    {
+        "gii_rank": 133,
+        "country": "Sao Tome and Principe",
+        "gii_value": 0.537
+    },
+    {
+        "gii_rank": 135,
+        "country": "Ghana",
+        "gii_value": 0.538
+    },
+    {
+        "gii_rank": 135,
+        "country": "Pakistan",
+        "gii_value": 0.538
+    },
+    {
+        "gii_rank": 539,
+        "country": "170 Sudan",
+        "gii_value": 0.545
+    },
+    {
+        "gii_rank": 553,
+        "country": "163 Tanzania",
+        "gii_value": 0.556
+    },
+    {
+        "gii_rank": 141,
+        "country": "Cameroon",
+        "gii_value": 0.56
+    },
+    {
+        "gii_rank": 565,
+        "country": "138 Eswatini",
+        "gii_value": 0.567
+    },
+    {
+        "gii_rank": 144,
+        "country": "Republic of the Congo",
+        "gii_value": 0.57
+    },
+    {
+        "gii_rank": 145,
+        "country": "Togo",
+        "gii_value": 0.573
+    },
+    {
+        "gii_rank": 146,
+        "country": "Iraq",
+        "gii_value": 0.577
+    },
+    {
+        "gii_rank": 147,
+        "country": "Burkina Faso",
+        "gii_value": 0.594
+    },
+    {
+        "gii_rank": 148,
+        "country": "Benin",
+        "gii_value": 0.612
+    },
+    {
+        "gii_rank": 612,
+        "country": "175 Democratic Republic of the Congo",
+        "gii_value": 0.617
+    },
+    {
+        "gii_rank": 634,
+        "country": "170 Haiti",
+        "gii_value": 0.636
+    },
+    {
+        "gii_rank": 153,
+        "country": "Ivory",
+        "gii_value": 0.638
+    },
+    {
+        "gii_rank": 154,
+        "country": "Niger",
+        "gii_value": 0.642
+    },
+    {
+        "gii_rank": 155,
+        "country": "Sierra Leone",
+        "gii_value": 0.644
+    },
+    {
+        "gii_rank": 650,
+        "country": "169",
+        "gii_value": 0.655
+    },
+    {
+        "gii_rank": 158,
+        "country": "Mali",
+        "gii_value": 0.671
+    },
+    {
+        "gii_rank": 159,
+        "country": "Central African Republic",
+        "gii_value": 0.68
+    },
+    {
+        "gii_rank": 160,
+        "country": "Chad",
+        "gii_value": 0.71
+    },
+    {
+        "gii_rank": 161,
+        "country": "Papua New Guinea",
+        "gii_value": 0.725
+    },
+    {
+        "gii_rank": 162,
+        "country": "Yemen",
+        "gii_value": 0.795
+    }
+]

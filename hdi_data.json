@@ -1,0 +1,1136 @@
+[
+    {
+        "rank": 1,
+        "status": "Steady",
+        "country": "Switzerland",
+        "hdi": 0.962
+    },
+    {
+        "rank": 2,
+        "status": "Steady",
+        "country": "Norway",
+        "hdi": 0.961
+    },
+    {
+        "rank": 3,
+        "status": "Steady",
+        "country": "Iceland",
+        "hdi": 0.959
+    },
+    {
+        "rank": 4,
+        "status": "Increase (3)",
+        "country": "Hong Kong",
+        "hdi": 0.952
+    },
+    {
+        "rank": 5,
+        "status": "Increase (3)",
+        "country": "Australia",
+        "hdi": 0.951
+    },
+    {
+        "rank": 6,
+        "status": "Steady",
+        "country": "Denmark",
+        "hdi": 0.948
+    },
+    {
+        "rank": 7,
+        "status": "Decrease (2)",
+        "country": "Sweden",
+        "hdi": 0.947
+    },
+    {
+        "rank": 8,
+        "status": "Increase (6)",
+        "country": "Ireland",
+        "hdi": 0.945
+    },
+    {
+        "rank": 9,
+        "status": "Decrease (5)",
+        "country": "Germany",
+        "hdi": 0.942
+    },
+    {
+        "rank": 10,
+        "status": "Decrease (1)",
+        "country": "Netherlands",
+        "hdi": 0.941
+    },
+    {
+        "rank": 11,
+        "status": "Steady",
+        "country": "Finland",
+        "hdi": 0.94
+    },
+    {
+        "rank": 12,
+        "status": "Decrease (1)",
+        "country": "Singapore",
+        "hdi": 0.939
+    },
+    {
+        "rank": 13,
+        "status": "Increase (2)",
+        "country": "Belgium",
+        "hdi": 0.937
+    },
+    {
+        "rank": 13,
+        "status": "Decrease (3)",
+        "country": "New Zealand",
+        "hdi": 0.937
+    },
+    {
+        "rank": 15,
+        "status": "Decrease (2)",
+        "country": "Canada",
+        "hdi": 0.936
+    },
+    {
+        "rank": 16,
+        "status": "Decrease (1)",
+        "country": "Liechtenstein",
+        "hdi": 0.935
+    },
+    {
+        "rank": 17,
+        "status": "Increase (3)",
+        "country": "Luxembourg",
+        "hdi": 0.93
+    },
+    {
+        "rank": 18,
+        "status": "Decrease (3)",
+        "country": "United Kingdom",
+        "hdi": 0.929
+    },
+    {
+        "rank": 19,
+        "status": "Steady",
+        "country": "Japan",
+        "hdi": 0.925
+    },
+    {
+        "rank": 19,
+        "status": "Increase (3)",
+        "country": "South Korea",
+        "hdi": 0.925
+    },
+    {
+        "rank": 21,
+        "status": "Decrease (3)",
+        "country": "United States",
+        "hdi": 0.921
+    },
+    {
+        "rank": 22,
+        "status": "Steady",
+        "country": "Israel",
+        "hdi": 0.919
+    },
+    {
+        "rank": 23,
+        "status": "Increase (4)",
+        "country": "Malta",
+        "hdi": 0.918
+    },
+    {
+        "rank": 23,
+        "status": "Increase (1)",
+        "country": "Slovenia",
+        "hdi": 0.918
+    },
+    {
+        "rank": 25,
+        "status": "Decrease (4)",
+        "country": "Austria",
+        "hdi": 0.916
+    },
+    {
+        "rank": 26,
+        "status": "Increase (9)",
+        "country": "United Arab Emirates",
+        "hdi": 0.911
+    },
+    {
+        "rank": 27,
+        "status": "Steady",
+        "country": "Spain",
+        "hdi": 0.905
+    },
+    {
+        "rank": 28,
+        "status": "Decrease (3)",
+        "country": "France",
+        "hdi": 0.903
+    },
+    {
+        "rank": 29,
+        "status": "Increase (3)",
+        "country": "Cyprus",
+        "hdi": 0.896
+    },
+    {
+        "rank": 30,
+        "status": "Decrease (1)",
+        "country": "Italy",
+        "hdi": 0.895
+    },
+    {
+        "rank": 31,
+        "status": "Decrease (2)",
+        "country": "Estonia",
+        "hdi": 0.89
+    },
+    {
+        "rank": 32,
+        "status": "Decrease (6)",
+        "country": "Czech Republic",
+        "hdi": 0.889
+    },
+    {
+        "rank": 33,
+        "status": "Decrease (2)",
+        "country": "Greece",
+        "hdi": 0.887
+    },
+    {
+        "rank": 34,
+        "status": "Decrease (1)",
+        "country": "Poland",
+        "hdi": 0.876
+    },
+    {
+        "rank": 35,
+        "status": "Increase (3)",
+        "country": "Bahrain",
+        "hdi": 0.875
+    },
+    {
+        "rank": 35,
+        "status": "Increase (1)",
+        "country": "Lithuania",
+        "hdi": 0.875
+    },
+    {
+        "rank": 35,
+        "status": "Increase (2)",
+        "country": "Saudi Arabia",
+        "hdi": 0.875
+    },
+    {
+        "rank": 38,
+        "status": "Increase (2)",
+        "country": "Portugal",
+        "hdi": 0.866
+    },
+    {
+        "rank": 39,
+        "status": "Increase (1)",
+        "country": "Latvia",
+        "hdi": 0.863
+    },
+    {
+        "rank": 40,
+        "status": "Decrease (6)",
+        "country": "Andorra",
+        "hdi": 0.858
+    },
+    {
+        "rank": 40,
+        "status": "Increase (5)",
+        "country": "Croatia",
+        "hdi": 0.858
+    },
+    {
+        "rank": 42,
+        "status": "Increase (1)",
+        "country": "Chile",
+        "hdi": 0.855
+    },
+    {
+        "rank": 42,
+        "status": "Increase (1)",
+        "country": "Qatar",
+        "hdi": 0.855
+    },
+    {
+        "rank": 45,
+        "status": "Decrease (5)",
+        "country": "Slovakia",
+        "hdi": 0.848
+    },
+    {
+        "rank": 46,
+        "status": "Increase (1)",
+        "country": "Hungary",
+        "hdi": 0.846
+    },
+    {
+        "rank": 47,
+        "status": "Decrease (4)",
+        "country": "Argentina",
+        "hdi": 0.842
+    },
+    {
+        "rank": 48,
+        "status": "Increase (6)",
+        "country": "Turkey",
+        "hdi": 0.838
+    },
+    {
+        "rank": 49,
+        "status": "Increase (3)",
+        "country": "Montenegro",
+        "hdi": 0.832
+    },
+    {
+        "rank": 50,
+        "status": "Decrease (1)",
+        "country": "Kuwait",
+        "hdi": 0.831
+    },
+    {
+        "rank": 51,
+        "status": "Decrease (3)",
+        "country": "Brunei",
+        "hdi": 0.829
+    },
+    {
+        "rank": 52,
+        "status": "Decrease (2)",
+        "country": "Russia",
+        "hdi": 0.822
+    },
+    {
+        "rank": 53,
+        "status": "Decrease (4)",
+        "country": "Romania",
+        "hdi": 0.821
+    },
+    {
+        "rank": 54,
+        "status": "Decrease (3)",
+        "country": "Oman",
+        "hdi": 0.816
+    },
+    {
+        "rank": 55,
+        "status": "Decrease (2)",
+        "country": "Bahamas",
+        "hdi": 0.812
+    },
+    {
+        "rank": 56,
+        "status": "Increase (4)",
+        "country": "Kazakhstan",
+        "hdi": 0.811
+    },
+    {
+        "rank": 57,
+        "status": "Decrease (2)",
+        "country": "Trinidad and Tobago",
+        "hdi": 0.81
+    },
+    {
+        "rank": 58,
+        "status": "Increase (4)",
+        "country": "Costa Rica",
+        "hdi": 0.809
+    },
+    {
+        "rank": 58,
+        "status": "Steady",
+        "country": "Uruguay",
+        "hdi": 0.809
+    },
+    {
+        "rank": 60,
+        "status": "Decrease (3)",
+        "country": "Belarus",
+        "hdi": 0.808
+    },
+    {
+        "rank": 61,
+        "status": "Steady",
+        "country": "Panama",
+        "hdi": 0.805
+    },
+    {
+        "rank": 62,
+        "status": "Increase (1)",
+        "country": "Malaysia",
+        "hdi": 0.803
+    },
+    {
+        "rank": 63,
+        "status": "Increase (7)",
+        "country": "Georgia",
+        "hdi": 0.802
+    },
+    {
+        "rank": 63,
+        "status": "Increase (2)",
+        "country": "Mauritius",
+        "hdi": 0.802
+    },
+    {
+        "rank": 63,
+        "status": "Increase (4)",
+        "country": "Serbia",
+        "hdi": 0.802
+    },
+    {
+        "rank": 66,
+        "status": "Increase (6)",
+        "country": "Thailand",
+        "hdi": 0.8
+    },
+    {
+        "rank": 67,
+        "status": "Decrease (2)",
+        "country": "Albania",
+        "hdi": 0.796
+    },
+    {
+        "rank": 68,
+        "status": "Decrease (9)",
+        "country": "Bulgaria",
+        "hdi": 0.795
+    },
+    {
+        "rank": 68,
+        "status": "Increase (2)",
+        "country": "Grenada",
+        "hdi": 0.795
+    },
+    {
+        "rank": 70,
+        "status": "Decrease (2)",
+        "country": "Barbados",
+        "hdi": 0.79
+    },
+    {
+        "rank": 71,
+        "status": "Decrease (3)",
+        "country": "Antigua and Barbuda",
+        "hdi": 0.788
+    },
+    {
+        "rank": 72,
+        "status": "Decrease (8)",
+        "country": "Seychelles",
+        "hdi": 0.785
+    },
+    {
+        "rank": 73,
+        "status": "Increase (9)",
+        "country": "Sri Lanka",
+        "hdi": 0.782
+    },
+    {
+        "rank": 74,
+        "status": "Increase (10)",
+        "country": "Bosnia and Herzegovina",
+        "hdi": 0.78
+    },
+    {
+        "rank": 75,
+        "status": "Increase (2)",
+        "country": "Saint Kitts and Nevis",
+        "hdi": 0.777
+    },
+    {
+        "rank": 76,
+        "status": "Decrease (2)",
+        "country": "Iran",
+        "hdi": 0.774
+    },
+    {
+        "rank": 77,
+        "status": "Decrease (2)",
+        "country": "Ukraine",
+        "hdi": 0.773
+    },
+    {
+        "rank": 78,
+        "status": "Increase (5)",
+        "country": "North Macedonia",
+        "hdi": 0.77
+    },
+    {
+        "rank": 79,
+        "status": "Increase (19)",
+        "country": "China",
+        "hdi": 0.768
+    },
+    {
+        "rank": 80,
+        "status": "Increase (16)",
+        "country": "Dominican Republic",
+        "hdi": 0.767
+    },
+    {
+        "rank": 80,
+        "status": "Increase (9)",
+        "country": "Moldova",
+        "hdi": 0.767
+    },
+    {
+        "rank": 80,
+        "status": "Decrease (7)",
+        "country": "Palau",
+        "hdi": 0.767
+    },
+    {
+        "rank": 83,
+        "status": "Decrease (7)",
+        "country": "Cuba",
+        "hdi": 0.764
+    },
+    {
+        "rank": 84,
+        "status": "Increase (1)",
+        "country": "Peru",
+        "hdi": 0.762
+    },
+    {
+        "rank": 85,
+        "status": "Decrease (5)",
+        "country": "Armenia",
+        "hdi": 0.759
+    },
+    {
+        "rank": 86,
+        "status": "Decrease (8)",
+        "country": "Mexico",
+        "hdi": 0.758
+    },
+    {
+        "rank": 87,
+        "status": "Increase (1)",
+        "country": "Brazil",
+        "hdi": 0.754
+    },
+    {
+        "rank": 88,
+        "status": "Decrease (1)",
+        "country": "Colombia",
+        "hdi": 0.752
+    },
+    {
+        "rank": 89,
+        "status": "Decrease (4)",
+        "country": "Saint Vincent and the Grenadines",
+        "hdi": 0.751
+    },
+    {
+        "rank": 90,
+        "status": "Increase (6)",
+        "country": "Maldives",
+        "hdi": 0.747
+    },
+    {
+        "rank": 91,
+        "status": "Increase (2)",
+        "country": "Algeria",
+        "hdi": 0.745
+    },
+    {
+        "rank": 91,
+        "status": "Decrease (1)",
+        "country": "Azerbaijan",
+        "hdi": 0.745
+    },
+    {
+        "rank": 91,
+        "status": "Increase (10)",
+        "country": "Tonga",
+        "hdi": 0.745
+    },
+    {
+        "rank": 91,
+        "status": "Increase (2)",
+        "country": "Turkmenistan",
+        "hdi": 0.745
+    },
+    {
+        "rank": 95,
+        "status": "Decrease (14)",
+        "country": "Ecuador",
+        "hdi": 0.74
+    },
+    {
+        "rank": 96,
+        "status": "Increase (4)",
+        "country": "Mongolia",
+        "hdi": 0.739
+    },
+    {
+        "rank": 97,
+        "status": "Increase (13)",
+        "country": "Egypt",
+        "hdi": 0.731
+    },
+    {
+        "rank": 97,
+        "status": "Increase (1)",
+        "country": "Tunisia",
+        "hdi": 0.731
+    },
+    {
+        "rank": 99,
+        "status": "Increase (3)",
+        "country": "Fiji",
+        "hdi": 0.73
+    },
+    {
+        "rank": 99,
+        "status": "Decrease (7)",
+        "country": "Suriname",
+        "hdi": 0.73
+    },
+    {
+        "rank": 101,
+        "status": "Increase (11)",
+        "country": "Uzbekistan",
+        "hdi": 0.727
+    },
+    {
+        "rank": 102,
+        "status": "Increase (11)",
+        "country": "Dominica",
+        "hdi": 0.72
+    },
+    {
+        "rank": 102,
+        "status": "Increase (2)",
+        "country": "Jordan",
+        "hdi": 0.72
+    },
+    {
+        "rank": 104,
+        "status": "Increase (10)",
+        "country": "Libya",
+        "hdi": 0.718
+    },
+    {
+        "rank": 105,
+        "status": "Decrease (2)",
+        "country": "Paraguay",
+        "hdi": 0.717
+    },
+    {
+        "rank": 106,
+        "status": "Increase (2)",
+        "country": "Palestine",
+        "hdi": 0.715
+    },
+    {
+        "rank": 106,
+        "status": "Decrease (11)",
+        "country": "Saint Lucia",
+        "hdi": 0.715
+    },
+    {
+        "rank": 108,
+        "status": "Increase (12)",
+        "country": "Guyana",
+        "hdi": 0.714
+    },
+    {
+        "rank": 109,
+        "status": "Decrease (4)",
+        "country": "South Africa",
+        "hdi": 0.713
+    },
+    {
+        "rank": 110,
+        "status": "Decrease (3)",
+        "country": "Jamaica",
+        "hdi": 0.709
+    },
+    {
+        "rank": 111,
+        "status": "Decrease (6)",
+        "country": "Samoa",
+        "hdi": 0.707
+    },
+    {
+        "rank": 112,
+        "status": "Increase (2)",
+        "country": "Gabon",
+        "hdi": 0.706
+    },
+    {
+        "rank": 112,
+        "status": "Decrease (21)",
+        "country": "Lebanon",
+        "hdi": 0.706
+    },
+    {
+        "rank": 114,
+        "status": "Increase (3)",
+        "country": "Indonesia",
+        "hdi": 0.705
+    },
+    {
+        "rank": 115,
+        "status": "Increase (5)",
+        "country": "Vietnam",
+        "hdi": 0.703
+    },
+    {
+        "rank": 116,
+        "status": "Steady",
+        "country": "Philippines",
+        "hdi": 0.699
+    },
+    {
+        "rank": 117,
+        "status": "Decrease (6)",
+        "country": "Botswana",
+        "hdi": 0.693
+    },
+    {
+        "rank": 118,
+        "status": "Steady",
+        "country": "Bolivia",
+        "hdi": 0.692
+    },
+    {
+        "rank": 118,
+        "status": "Steady",
+        "country": "Kyrgyzstan",
+        "hdi": 0.692
+    },
+    {
+        "rank": 120,
+        "status": "Decrease (41)",
+        "country": "Venezuela",
+        "hdi": 0.691
+    },
+    {
+        "rank": 121,
+        "status": "Increase (1)",
+        "country": "Iraq",
+        "hdi": 0.686
+    },
+    {
+        "rank": 122,
+        "status": "Increase (3)",
+        "country": "Tajikistan",
+        "hdi": 0.685
+    },
+    {
+        "rank": 123,
+        "status": "Decrease (14)",
+        "country": "Belize",
+        "hdi": 0.683
+    },
+    {
+        "rank": 123,
+        "status": "Increase (3)",
+        "country": "Morocco",
+        "hdi": 0.683
+    },
+    {
+        "rank": 125,
+        "status": "Decrease (2)",
+        "country": "El Salvador",
+        "hdi": 0.675
+    },
+    {
+        "rank": 126,
+        "status": "Increase (1)",
+        "country": "Nicaragua",
+        "hdi": 0.667
+    },
+    {
+        "rank": 127,
+        "status": "Increase (6)",
+        "country": "Bhutan",
+        "hdi": 0.666
+    },
+    {
+        "rank": 128,
+        "status": "Decrease (4)",
+        "country": "Cape Verde",
+        "hdi": 0.662
+    },
+    {
+        "rank": 129,
+        "status": "Increase (11)",
+        "country": "Bangladesh",
+        "hdi": 0.661
+    },
+    {
+        "rank": 130,
+        "status": "Decrease (2)",
+        "country": "Tuvalu",
+        "hdi": 0.641
+    },
+    {
+        "rank": 131,
+        "status": "Decrease (1)",
+        "country": "Marshall Islands",
+        "hdi": 0.639
+    },
+    {
+        "rank": 132,
+        "status": "Decrease (1)",
+        "country": "India",
+        "hdi": 0.633
+    },
+    {
+        "rank": 133,
+        "status": "Increase (5)",
+        "country": "Ghana",
+        "hdi": 0.632
+    },
+    {
+        "rank": 134,
+        "status": "Steady",
+        "country": "Micronesia",
+        "hdi": 0.628
+    },
+    {
+        "rank": 135,
+        "status": "Decrease (6)",
+        "country": "Guatemala",
+        "hdi": 0.627
+    },
+    {
+        "rank": 136,
+        "status": "Decrease (1)",
+        "country": "Kiribati",
+        "hdi": 0.624
+    },
+    {
+        "rank": 137,
+        "status": "Steady",
+        "country": "Honduras",
+        "hdi": 0.621
+    },
+    {
+        "rank": 138,
+        "status": "Increase (4)",
+        "country": "Sao Tome and Principe",
+        "hdi": 0.618
+    },
+    {
+        "rank": 139,
+        "status": "Decrease (7)",
+        "country": "Namibia",
+        "hdi": 0.615
+    },
+    {
+        "rank": 140,
+        "status": "Increase (1)",
+        "country": "Laos",
+        "hdi": 0.607
+    },
+    {
+        "rank": 140,
+        "status": "Decrease (4)",
+        "country": "East Timor",
+        "hdi": 0.607
+    },
+    {
+        "rank": 140,
+        "status": "Increase (3)",
+        "country": "Vanuatu",
+        "hdi": 0.607
+    },
+    {
+        "rank": 143,
+        "status": "Increase (4)",
+        "country": "Nepal",
+        "hdi": 0.602
+    },
+    {
+        "rank": 144,
+        "status": "Increase (4)",
+        "country": "Eswatini",
+        "hdi": 0.597
+    },
+    {
+        "rank": 145,
+        "status": "Decrease (6)",
+        "country": "Equatorial Guinea",
+        "hdi": 0.596
+    },
+    {
+        "rank": 146,
+        "status": "Increase (3)",
+        "country": "Cambodia",
+        "hdi": 0.593
+    },
+    {
+        "rank": 146,
+        "status": "Decrease (1)",
+        "country": "Zimbabwe",
+        "hdi": 0.593
+    },
+    {
+        "rank": 148,
+        "status": "Decrease (3)",
+        "country": "Angola",
+        "hdi": 0.586
+    },
+    {
+        "rank": 149,
+        "status": "Increase (1)",
+        "country": "Myanmar",
+        "hdi": 0.585
+    },
+    {
+        "rank": 150,
+        "status": "Increase (5)",
+        "country": "Syria",
+        "hdi": 0.577
+    },
+    {
+        "rank": 151,
+        "status": "Increase (2)",
+        "country": "Cameroon",
+        "hdi": 0.576
+    },
+    {
+        "rank": 152,
+        "status": "Steady",
+        "country": "Kenya",
+        "hdi": 0.575
+    },
+    {
+        "rank": 153,
+        "status": "Decrease (9)",
+        "country": "Republic of the Congo",
+        "hdi": 0.571
+    },
+    {
+        "rank": 154,
+        "status": "Decrease (4)",
+        "country": "Zambia",
+        "hdi": 0.565
+    },
+    {
+        "rank": 155,
+        "status": "Decrease (1)",
+        "country": "Solomon Islands",
+        "hdi": 0.564
+    },
+    {
+        "rank": 156,
+        "status": "Steady",
+        "country": "Comoros",
+        "hdi": 0.558
+    },
+    {
+        "rank": 156,
+        "status": "Increase (2)",
+        "country": "Papua New Guinea",
+        "hdi": 0.558
+    },
+    {
+        "rank": 158,
+        "status": "Decrease (2)",
+        "country": "Mauritania",
+        "hdi": 0.556
+    },
+    {
+        "rank": 159,
+        "status": "Increase (8)",
+        "country": "Ivory Coast",
+        "hdi": 0.55
+    },
+    {
+        "rank": 160,
+        "status": "Increase (2)",
+        "country": "Tanzania",
+        "hdi": 0.549
+    },
+    {
+        "rank": 161,
+        "status": "Decrease (2)",
+        "country": "Pakistan",
+        "hdi": 0.544
+    },
+    {
+        "rank": 162,
+        "status": "Increase (4)",
+        "country": "Togo",
+        "hdi": 0.539
+    },
+    {
+        "rank": 163,
+        "status": "Decrease (3)",
+        "country": "Haiti",
+        "hdi": 0.535
+    },
+    {
+        "rank": 163,
+        "status": "Increase (1)",
+        "country": "Nigeria",
+        "hdi": 0.535
+    },
+    {
+        "rank": 165,
+        "status": "Steady",
+        "country": "Rwanda",
+        "hdi": 0.534
+    },
+    {
+        "rank": 166,
+        "status": "Decrease (6)",
+        "country": "Benin",
+        "hdi": 0.525
+    },
+    {
+        "rank": 166,
+        "status": "Decrease (3)",
+        "country": "Uganda",
+        "hdi": 0.525
+    },
+    {
+        "rank": 168,
+        "status": "Increase (3)",
+        "country": "Lesotho",
+        "hdi": 0.514
+    },
+    {
+        "rank": 169,
+        "status": "Increase (4)",
+        "country": "Malawi",
+        "hdi": 0.512
+    },
+    {
+        "rank": 170,
+        "status": "Decrease (1)",
+        "country": "Senegal",
+        "hdi": 0.511
+    },
+    {
+        "rank": 171,
+        "status": "Increase (1)",
+        "country": "Djibouti",
+        "hdi": 0.509
+    },
+    {
+        "rank": 172,
+        "status": "Decrease (4)",
+        "country": "Sudan",
+        "hdi": 0.508
+    },
+    {
+        "rank": 173,
+        "status": "Decrease (3)",
+        "country": "Madagascar",
+        "hdi": 0.501
+    },
+    {
+        "rank": 174,
+        "status": "Increase (1)",
+        "country": "Gambia",
+        "hdi": 0.5
+    },
+    {
+        "rank": 175,
+        "status": "Increase (6)",
+        "country": "Ethiopia",
+        "hdi": 0.498
+    },
+    {
+        "rank": 176,
+        "status": "Decrease (2)",
+        "country": "Eritrea",
+        "hdi": 0.492
+    },
+    {
+        "rank": 178,
+        "status": "Steady",
+        "country": "Liberia",
+        "hdi": 0.481
+    },
+    {
+        "rank": 179,
+        "status": "Increase (1)",
+        "country": "Democratic Republic of the Congo",
+        "hdi": 0.479
+    },
+    {
+        "rank": 180,
+        "status": "Decrease (5)",
+        "country": "Afghanistan",
+        "hdi": 0.478
+    },
+    {
+        "rank": 181,
+        "status": "Increase (1)",
+        "country": "Sierra Leone",
+        "hdi": 0.477
+    },
+    {
+        "rank": 182,
+        "status": "Increase (1)",
+        "country": "Guinea",
+        "hdi": 0.465
+    },
+    {
+        "rank": 183,
+        "status": "Decrease (6)",
+        "country": "Yemen",
+        "hdi": 0.455
+    },
+    {
+        "rank": 184,
+        "status": "Increase (2)",
+        "country": "Burkina Faso",
+        "hdi": 0.449
+    },
+    {
+        "rank": 185,
+        "status": "Decrease (2)",
+        "country": "Mozambique",
+        "hdi": 0.446
+    },
+    {
+        "rank": 186,
+        "status": "Increase (1)",
+        "country": "Mali",
+        "hdi": 0.428
+    },
+    {
+        "rank": 187,
+        "status": "Decrease (2)",
+        "country": "Burundi",
+        "hdi": 0.426
+    },
+    {
+        "rank": 188,
+        "status": "Increase (2)",
+        "country": "Central African Republic",
+        "hdi": 0.404
+    },
+    {
+        "rank": 189,
+        "status": "Increase (2)",
+        "country": "Niger",
+        "hdi": 0.4
+    },
+    {
+        "rank": 190,
+        "status": "Decrease (1)",
+        "country": "Chad",
+        "hdi": 0.394
+    },
+    {
+        "rank": 191,
+        "status": "Decrease (3)",
+        "country": "South Sudan",
+        "hdi": 0.385
+    }
+]
