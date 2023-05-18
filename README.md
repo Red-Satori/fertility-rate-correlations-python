@@ -1,5 +1,6 @@
-# fertility-rate-correlations-python
-Python scripts for parsing and analyzing data related to three global indices: HDI, TFR, and GII
+# True Fertility Rate (TFR) Data Correlations using Python
+
+Python scripts for parsing and analyzing data related to three global indices: HDI, TFR, and GII from Wikipedia articles
 
 This repository contains Python scripts for parsing and analyzing data related to three global indices: the Human Development Index (HDI), Total Fertility Rate (TFR), and Gender Inequality Index (GII).
 
@@ -33,7 +34,7 @@ A correlation coefficient of -1 means that for every positive increase in one va
 
 Zero means that for every increase, there isn’t a positive or negative increase. The two just aren’t related.
 
-In your result:
+#### In your result:
 
 The correlation between hdi and tfr is approximately -0.86, indicating a strong negative relationship. This suggests that as the Human Development Index (HDI) increases, the Total Fertility Rate (TFR) tends to decrease.
 
@@ -44,3 +45,9 @@ The correlation between tfr and gii_value is approximately 0.81, indicating a st
 Remember, correlation does not imply causation. These are just relationships between variables, and it doesn't mean that changing one variable will change another. It might be that both variables are being affected by other factors, or the correlation could be a coincidence. More robust statistical analysis would be required to determine causal relationships.
 
 ![Womens Fertility Drops when they have more rights](https://github.com/Red-Satori/fertility-rate-correlations-python/assets/117653020/c30b425c-5aff-4218-9a33-73ff14de0846)
+
+## Wikipedia Sources
+
+[GII Data](https://en.wikipedia.org/wiki/Gender_Inequality_Index)
+[TFR Data](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependencies_by_total_fertility_rate)
+[HDI Index](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index)
